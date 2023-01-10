@@ -1,0 +1,3 @@
+# Result
+![paginators](result.png)
+
